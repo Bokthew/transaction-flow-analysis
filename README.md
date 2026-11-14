@@ -126,24 +126,7 @@ The analysis is designed to support several business insights:
 transaction-flow-analysis/
 │
 ├── README.md
-│
-├── sql/
-│   ├── 01_base_transaction_extraction.sql
-│   ├── 02_monthly_transaction_summary.sql
-│   ├── 03_customer_yearly_summary.sql
-│   ├── 04_counterparty_identification.sql
-│   ├── 05_name_similarity_matching.sql
-│   ├── 06_customer_branch_profiling.sql
-│   ├── 07_counterparty_profiling.sql
-│   ├── 08_leakage_reconciliation.sql
-│   ├── 09_other_segment_analysis.sql
-│   ├── 10_consolidated_reporting.sql
-│   └── 11_sector_analysis.sql
-│
-└── documentation/
-    ├── business-objectives.md
-    ├── methodology.md
-    └── data-dictionary.md
+└── sql_script.sql
 ```
 
 *Note: The repository structure represents a suggested organization of the analytical workflow.*
