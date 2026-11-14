@@ -148,16 +148,8 @@ transaction-flow-analysis/
 
 *Note: The repository structure represents a suggested organization of the analytical workflow.*
 
-## Disclaimer
-
-This repository is intended for educational and portfolio demonstration purposes.
-
-All examples should use anonymized or synthetic data. No confidential banking information, customer-identifiable information, internal database structures, or proprietary business rules should be published without proper authorization.
-
-The analytical methodology presented here is a demonstration of SQL-based transaction analysis and should not be interpreted as an official banking report.
-
 ## Author
 
 **Rudi Julianto**
 
-Data Analyst | SQL | Data Analytics | Banking Analytics
+Data Analyst
